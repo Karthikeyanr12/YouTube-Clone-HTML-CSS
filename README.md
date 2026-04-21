@@ -62,10 +62,4 @@ Open the `index.html` file in your browser
 ## ⚠️ Note
 This project is created **for learning purposes only** and is not intended for production use.
 
-<img width="1899" height="891" alt="image" src="https://github.com/user-attachments/assets/91e68944-3b64-4e07-91fc-c649b0d6b3c2" />
-
-
-<img width="1035" height="840" alt="image" src="https://github.com/user-attachments/assets/da12e139-ad8f-44e0-b327-511b56a8df7e" />
-
-
 
