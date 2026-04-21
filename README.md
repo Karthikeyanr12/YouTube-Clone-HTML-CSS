@@ -51,14 +51,6 @@ Open the `index.html` file in your browser
 
 ---
 
-## 🔮 Future Improvements
-- Add JavaScript for interactivity  
-- Implement video playback functionality  
-- Improve responsiveness for all screen sizes  
-- Convert into a full-stack application  
-
----
-
 ## ⚠️ Note
 This project is created **for learning purposes only** and is not intended for production use.
 
