@@ -41,7 +41,7 @@ The purpose of this project is to **learn and practice frontend fundamentals**, 
 ## 🚀 How to Run
 1. Clone the repository  
 ```bash
-git clone https://github.com/your-username/youtube-clone
+git clone https://github.com/Karthikeyanr12/YouTube-Clone-HTML-CSS
 ```
 
 2. Open the project folder  
