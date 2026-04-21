@@ -47,7 +47,7 @@ git clone https://github.com/your-username/youtube-clone
 2. Open the project folder  
 
 3. Run the project  
-Open the `index.html` file in your browser  
+Open the `youtube.html` file in your browser  
 
 ---
 
